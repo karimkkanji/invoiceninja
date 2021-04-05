@@ -2258,6 +2258,7 @@ $LANG = array(
     'sample_commands' => 'Примеры команд',
     'voice_commands_feedback' => 'Мы активно работаем над улучшением этой функции, если есть команда, которую вы хотели бы увидеть, напишите нам по электронной почте :email.',
     'payment_type_Venmo' => 'Venmo',
+    'payment_type_MPESA' => 'MPESA',
     'payment_type_Money Order' => 'Money Order',
     'archived_products' => 'Successfully archived :count products',
     'recommend_on' => 'We recommend <b>enabling</b> this setting.',
